@@ -11,16 +11,32 @@ button{
     flex-direction: column;
     align-items: flex-start;
     justify-content: center;
-    width: 400px;
+    width: 600px;
     margin: 0 auto;
 }
 
 .square {
-    border: 2px solid #000000;
+    border: 1px solid #000000;
     box-sizing: border-box;
 }
 
 .container{
     display: flex;
     flex-wrap: wrap;
+    user-select: none;
+}
+
+.colors{
+    border: 1px solid #000000;
+    margin-top: 20px;
+    width: 200px;
+}
+
+.selected{
+     border: 2px solid #f2ff00;
+}
+
+.tools{
+    display: flex;
+    gap: 10px;
 }
