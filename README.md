@@ -19,6 +19,10 @@ O Etch-a-Sketch é uma aplicação web interativa onde você pode desenhar em um
 2. Use os botões para mudar o tamanho da grade ou limpar o desenho.
 3. Clique em uma cor para selecioná-la e desenhe passando o mouse sobre a grade.
 
+## Visualização
+
+<img width="822" height="862" alt="image" src="https://github.com/user-attachments/assets/bcec5e27-bd13-4c75-9219-c0d0590fb124" />
+
 ---
 
-Projeto concluído conforme proposto em: [The Odin Project - Etch-a-Sketch](https://www.theodinproject.com/lessons/foundations-etch-a-sketch), com o acréscimo da seleção de cores.
+Projeto concluído conforme proposto em: [The Odin Project - Etch-a-Sketch](https://www.theodinproject.com/lessons/foundations-etch-a-sketch), com o acréscimo da funcionalidade de seleção de cores.
