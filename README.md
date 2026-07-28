@@ -1,6 +1,6 @@
 # Etch-a-Sketch
 
-This project is an implementation of the classic Etch-a-Sketch toy, developed as part of the Foundations path of [Foundations | The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations).
+This project is an implementation of the classic Etch-a-Sketch toy, developed as part of the [Foundations path of The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations).
 
 
 ## What is it?
