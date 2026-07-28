@@ -1,33 +1,33 @@
 # Etch-a-Sketch
 
-Este projeto é uma implementação do clássico brinquedo Etch-a-Sketch, desenvolvido como parte da trilha Foundations do [The Odin Project](https://www.theodinproject.com/lessons/foundations-etch-a-sketch).
+This project is an implementation of the classic Etch-a-Sketch toy, developed as part of the Foundations path of [Foundations | The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations).
 
 
-## O que é?
+## What is it?
 
-O Etch-a-Sketch é uma aplicação web interativa onde você pode desenhar em uma grade (grid) de quadrados, simulando o funcionamento do brinquedo original. O usuário pode escolher diferentes cores, limpar o desenho e alterar o tamanho dos quadrados (pixels).
+Etch-a-Sketch is an interactive web application where you can draw on a grid of squares, simulating the behavior of the original toy. The user can choose different colors, clear the drawing, and change the size of the squares (pixels).
 
-## Funcionalidades
+## Features
 
-- **Desenhar**: Passe o mouse sobre os quadrados da grade para colorir.
-- **Escolher cor**: Selecione uma das 20 cores disponíveis para desenhar.
-- **Mudar grid**: Altere o tamanho da grade (até 100x100 quadrados) para criar desenhos mais detalhados ou simples.
-- **Limpar**: Limpe toda a grade para começar um novo desenho.
+- **Draw**: Hover over the grid squares to color them.
+- **Choose color**: Select one of the 20 available colors to draw with.
+- **Change grid**: Adjust the grid size (up to 100x100 squares) to create more detailed or simpler drawings.
+- **Clear**: Clear the entire grid to start a new drawing.
 
-## Como usar
+## How to use
 
-1. Abra o arquivo `index.html` em seu navegador.
-2. Use os botões para mudar o tamanho da grade ou limpar o desenho.
-3. Clique em uma cor para selecioná-la e desenhe passando o mouse sobre a grade.
+1. Open the `index.html` file in your browser.
+2. Use the buttons to change the grid size or clear the drawing.
+3. Click a color to select it and draw by moving the mouse over the grid.
 
-## Visualização
+## Visualization
 
 <img width="822" height="862" alt="image" src="https://github.com/user-attachments/assets/bcec5e27-bd13-4c75-9219-c0d0590fb124" />
 
 ---
 
-Projeto concluído conforme proposto em: [The Odin Project - Etch-a-Sketch](https://www.theodinproject.com/lessons/foundations-etch-a-sketch), com o acréscimo da funcionalidade de seleção de cores.
+Project completed as proposed in: [The Odin Project - Etch-a-Sketch](https://www.theodinproject.com/lessons/foundations-etch-a-sketch), with the addition of the color selection feature.
 
 ---
 
-O repositório que centraliza todos os projetos feitos durante os estudos no The Odin Project é [ChristoferLv/TheOdinProject](https://github.com/ChristoferLv/TheOdinProject).
+The repository that centralizes all projects built during studies in The Odin Project is [ChristoferLv/TheOdinProject](https://github.com/ChristoferLv/TheOdinProject).
